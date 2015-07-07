@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6357A3B6-8A9B-401E-A4FA-9724B468EBEC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ViewControllerUnwindSegue</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>647B188A993986D1781F5667C96C84B2E065C3A8</key>
+		<string>https://github.com/corsarus/CollectionViewAnimatedSegueTransition.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ViewControllerUnwindSegue.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>647B188A993986D1781F5667C96C84B2E065C3A8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/corsarus/CollectionViewAnimatedSegueTransition.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>647B188A993986D1781F5667C96C84B2E065C3A8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>647B188A993986D1781F5667C96C84B2E065C3A8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ViewControllerUnwindSegues</string>
+		</dict>
+	</array>
+</dict>
+</plist>
